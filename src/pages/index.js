@@ -9,8 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site running on App Platform!</p>
-    <p>Now go build something great.</p>
+    <p>Welcome to VoteSource!</p>
+    <p>Let's find out voting information for your district.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
